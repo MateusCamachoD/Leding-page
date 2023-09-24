@@ -1,1 +1,1 @@
-# Leding-page
+# Leading-page
